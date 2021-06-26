@@ -2,8 +2,8 @@ const data_B =
 [
     {
       id:1,
-      name:"Galvesh G",
-      image_url:"https://ik.imagekit.io/tmdymklekk8/Vishnu_Vardhan_9sFYg5vRi.jpg"
+      name:"Gelvesh G",
+      image_url:"https://ik.imagekit.io/tmdymklekk8/Gelvesh_G_o2atmwDKq.jpg"
     },
     {
       id:2,
@@ -12,7 +12,7 @@ const data_B =
     },
     {
       id:3,
-      name:"Harshini",
+      name:"Harshini URS KR",
       image_url:"https://ik.imagekit.io/tmdymklekk8/Harshini_vRycadk98.jpg"
     },
     {
@@ -42,7 +42,7 @@ const data_B =
     },
     {
       id:9,
-      name:"Pavan Jannu",
+      name:"Pavan P Jannu",
       image_url:"https://ik.imagekit.io/tmdymklekk8/Pavan_Jannu_sEisloTzC.JPG"
     },
     {
@@ -72,7 +72,7 @@ const data_B =
     },
     {
       id:15,
-      name:"Prakruthi",
+      name:"Prakruthi M K",
       image_url:"https://ik.imagekit.io/tmdymklekk8/Prakruthi_m6x2NCq1V.jpg"
     },
     {
@@ -92,12 +92,12 @@ const data_B =
     },
     {
       id:19,
-      name:"Pushkar",
+      name:"Pushkar Kumar",
       image_url:"https://ik.imagekit.io/tmdymklekk8/Pushkar_heAiJzty8.jpg"
     },
     {
       id:20,
-      name:"Rachana Shenoy",
+      name:"Rachana N Shenoy",
       image_url:"https://ik.imagekit.io/tmdymklekk8/Rachana_Shenoy_xsjNm3Ikff.png"
     },
     {
@@ -122,7 +122,7 @@ const data_B =
     },
     {
       id:25,
-      name:"Rishita",
+      name:"Rishita Ingle",
       image_url:"https://ik.imagekit.io/tmdymklekk8/Rishita_IHsECDrCp.jpg"
     },
     {
@@ -132,7 +132,7 @@ const data_B =
     },
     {
       id:27,
-      name:"Rohit",
+      name:"Rohit R",
       image_url:"https://ik.imagekit.io/tmdymklekk8/Rohit_dpSlix2Fzx.jpg"
     },
     {
@@ -167,12 +167,12 @@ const data_B =
     },
     {
       id:34,
-      name:"Sadiqvasim",
+      name:"Sadiq Vasim",
       image_url:"https://ik.imagekit.io/tmdymklekk8/SADIQVASIM_JLFYYgC0L.JPG"
     },
     {
       id:35,
-      name:"Sai Swaroop",
+      name:"N Sai Swaroop",
       image_url:"https://ik.imagekit.io/tmdymklekk8/Sai_Swaroop_wS1yHZK9n.jpg"
     },
     {
@@ -182,7 +182,7 @@ const data_B =
     },
     {
       id:37,
-      name:"Sanjana Rao",
+      name:"Sanjana S Rao",
       image_url:"https://ik.imagekit.io/tmdymklekk8/Sanjana_Rao_Uy5eR3ng8.jpg"
     },
     {
@@ -212,7 +212,7 @@ const data_B =
     },
     {
       id:43,
-      name:"Siddharth Singh",
+      name:"Siddhartha Singh",
       image_url:"https://ik.imagekit.io/7qhl7a9lcks/Siddharth_Singh_JFvA0jCvI.jpeg"
     },
     {
@@ -222,12 +222,12 @@ const data_B =
     },
     {
       id:45,
-      name:"Simran Bhurat",
+      name:"Simran S Bhurat",
       image_url:"https://ik.imagekit.io/7qhl7a9lcks/Simranbhurat__hXmJblfeq.jpg"
     },
     {
       id:46,
-      name:"Sindhu",
+      name:"Sindhu M N",
       image_url:"https://ik.imagekit.io/7qhl7a9lcks/Sindhu_U5Y5c80im.jpg"
     },
     {
@@ -237,7 +237,7 @@ const data_B =
     },
     {
       id:48,
-      name:"Skanda",
+      name:"Skanda S A",
       image_url:"https://ik.imagekit.io/7qhl7a9lcks/Skanda_MI_3uENv5.jpg"
     },
     {
@@ -262,7 +262,7 @@ const data_B =
     },
     {
       id:53,
-      name:"Swathi",
+      name:"Swathi R",
       image_url:"https://ik.imagekit.io/7qhl7a9lcks/Swathi_IbilPAAmd.JPG"
     },
     {
@@ -292,17 +292,17 @@ const data_B =
     },
     {
       id:59,
-      name:"Vinamra",
+      name:"Vinamra Rathi",
       image_url:"https://ik.imagekit.io/7qhl7a9lcks/Vinamra_5LFsqFWX0.jpeg"
     },
     {
       id:60,
-      name:"Viram",
+      name:"Viram Jain",
       image_url:"https://ik.imagekit.io/7qhl7a9lcks/Viram_E2vO-l8xl.jpg"
     },
     {
       id:61,
-      name:"Vishal",
+      name:"Vishal NK",
       image_url:"https://ik.imagekit.io/7qhl7a9lcks/Vishal_SmwotxW40.jpg"
     },
     {
@@ -327,9 +327,19 @@ const data_B =
     },
     {
       id:66,
-      name:"Minu",
-      image_url:"https://ik.imagekit.io/7qhl7a9lcks/WhatsApp_Image_2021-06-25_at_8.58.48_PM_6mLfXfKUg.jpeg"
-    }
+      name:"V P Punya",
+      image_url:"https://ik.imagekit.io/7qhl7a9lcks/V_P_punya_xx6__O3b_.jpeg"
+    },
+    {
+      id:67,
+      name:"Sakshi S",
+      image_url:"https://ik.imagekit.io/tmdymklekk8/Sakshi_o_NCLm2N8.png"
+    },
+    {
+      id:68,
+      name:"Rohith",
+      image_url:"https://ik.imagekit.io/tmdymklekk8/Rohith_UAVLm3n1r.png"
+    },
 
 ]
 
